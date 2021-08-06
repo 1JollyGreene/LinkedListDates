@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(25,17): warning C4101:  'SetNum2': unreferenced local variable
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(29,8): warning C4101:  'numDateRecords': unreferenced local variable
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(23,20): warning C4101:  'year': unreferenced local variable
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(25,26): warning C4101:  'sortnum': unreferenced local variable
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(23,15): warning C4101:  'day': unreferenced local variable
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(23,8): warning C4101:  'month': unreferenced local variable
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(25,8): warning C4101:  'SetNum1': unreferenced local variable
+C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\myProgram\main.cpp(19,8): warning C4101:  'date': unreferenced local variable
+  myProgram.vcxproj -> C:\Users\peter\Desktop\Examples of work\LINK LIST Insert random dates, order\HM#1\Debug\myProgram.exe
